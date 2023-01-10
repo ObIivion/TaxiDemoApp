@@ -1,0 +1,15 @@
+/* 
+  Constants.strings
+  TaxiAppDemo
+
+  Created by Павел Виноградов on 05.01.2023.
+  
+*/
+
+"orders" = "Текущие заказы";
+"auto" = "Авто: ";
+"regNumber" = "Гос. номер: ";
+"driver" = "Водитель: ";
+"priсe" = "Цена поедки: ";
+"get_date_failure" = "Не удалось получить дату поездки";
+
